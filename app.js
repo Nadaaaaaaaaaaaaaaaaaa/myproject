@@ -1,0 +1,1 @@
+alert("Secure your data!");
